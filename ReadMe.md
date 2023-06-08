@@ -1,5 +1,10 @@
 # 💫 About Me:
 🔭 I'm a Front End Developer Trainee at Function Up.<br>👯 I'm actively seeking collaboration opportunities for Frontend projects.<br>🌐 Visit my website: https://magical-meerkat-e8a6ec.netlify.app/<br>🤝 I'm looking for a great career opportunity and would appreciate any help.<br>🌱 Currently, I'm focused on learning React,  PHp.<br><br><br>Feel free to connect with me on my social media platforms.
+(https://camo.githubusercontent.com/db1b048428da6a9bed9a962c938aa14a4d38ccb32e510e7ea3af8804df9a7112/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6176656e746f2e676966)
+
+
+
+
 
 
 ## 🌐 Socials:
