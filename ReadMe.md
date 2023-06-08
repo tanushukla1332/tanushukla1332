@@ -1,13 +1,16 @@
 # 💫 About Me:
-🔭 I'm a Front End Developer Trainee at Function Up.<br>👯 I'm actively seeking collaboration opportunities for Frontend projects.
-<br>🌐 Visit my website: https://magical-meerkat-e8a6ec.netlify.app/<br>🤝 I'm looking for a great career opportunity and would appreciate any help.<br>🌱 Currently, I'm focused on learning React,  PHp.<br><br><br>Feel free to connect with me on my social media platforms.
-![Profile Image](https://camo.githubusercontent.com/db1b048428da6a9bed9a962c938aa14a4d38ccb32e510e7ea3af8804df9a7112/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6176656e746f2e676966)
 
+<p align="justify">
+🔭 I'm a Front End Developer Trainee at Function Up.<br>
+👯 I'm actively seeking collaboration opportunities for Frontend projects.<br>
+🌐 Visit my website: [magical-meerkat-e8a6ec.netlify.app](https://magical-meerkat-e8a6ec.netlify.app/)<br>
+🤝 I'm looking for a great career opportunity and would appreciate any help.<br>
+🌱 Currently, I'm focused on learning React, PHP.
+</p>
 
-
-
-
-
+<p align="right">
+  <img src="https://t3.ftcdn.net/jpg/04/98/91/96/360_F_498919631_Me4XD0pVj0tX109wnyH7FIo6FHTb5J0E.jpg" alt="Profile Image" width="200">
+</p>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100030416228514&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/_ms.shivi_?igshid=MzNlNGNkZWQ4Mg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivani-shukla-38280121b) 
 
