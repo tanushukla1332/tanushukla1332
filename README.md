@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KM Shivani Shukla</h1>
 <h3 align="center">Senior Frontend Developer | React.js Expert | 4+ Years Experience</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="coding" width="300"/>
 </p>
 
