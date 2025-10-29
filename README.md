@@ -2,7 +2,7 @@
 <h3 align="center">Senior Frontend Developer | React.js Expert | 4+ Years Experience</h3>
 
 <p align="left">
-  <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="coding" width="500"/>
+  <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="coding" width="1000"/>
 </p>
 
 <p align="center">
